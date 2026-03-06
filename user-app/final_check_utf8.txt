@@ -1,0 +1,26 @@
+﻿Analyzing shopflow...                                           
+
+   info - The file name 'app-router.dart' isn't a lower_case_with_underscores identifier - lib\core\router\app-router.dart:1:1 - file_names
+   info - The parameter name 'sum' matches a visible type name - lib\models\order_model.dart:90:40 - avoid_types_as_parameter_names
+
+flutter : 2 issues 
+found. (ran in 12.6s)
+At line:1 char:24
++ ... ore\router\ ; 
+flutter analyze 
+--no-pub > 
+final_check.txt 2>&1 ; 
+Get-C ...
++                   ~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (2 issues foun   
+ d. (ran in 12.6s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

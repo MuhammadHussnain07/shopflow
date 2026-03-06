@@ -1,0 +1,21 @@
+﻿Analyzing shopflow...                                           
+
+warning - Unused import: 'package:flutter/material.dart' - lib\providers\product_provider.dart:2:8 - unused_import
+
+flutter : 1 issue found. 
+(ran in 8.4s)
+At line:1 char:1
++ flutter analyze --no-pub 
+> final_verify.txt 2>&1 ; 
+Get-Content final_ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecifi    ed: 
+(1 issue found    . (ran 
+in 8.4s):St    ring) [], 
+RemoteEx    ception
+    + FullyQualifiedEr    
+rorId : NativeComm    
+andError
+ 

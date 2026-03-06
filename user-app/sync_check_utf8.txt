@@ -1,0 +1,24 @@
+﻿Analyzing shopflow...                                           
+
+  error - The method 'set' isn't defined for the type 'StateController' - lib\screens\home_screen.dart:198:67 - undefined_method
+warning - Unused import: 'package:shopflow/providers/product_provider.dart' - lib\screens\search_screen.dart:12:8 - unused_import
+  error - The method 'searchProductsProvider' isn't defined for the type 'SearchScreen' - lib\screens\search_screen.dart:28:37 - undefined_method
+  error - The method 'searchProductsProvider' isn't defined for the type 'SearchScreen' - lib\screens\search_screen.dart:145:25 - undefined_method
+
+flutter : 4 issues found. 
+(ran in 65.7s)
+At line:1 char:1
++ flutter analyze --no-pub 
+> sync_check.txt 2>&1 ; 
+Get-Content sync_che ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo         
+     : NotSpecifi    ed: 
+(4 issues foun    d. (ran 
+in 65.7s):    String) [], 
+Remote    Exception
+    + FullyQualifiedEr    
+rorId : NativeComm    
+andError
+ 

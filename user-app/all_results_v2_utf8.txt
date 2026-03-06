@@ -1,0 +1,31 @@
+﻿Analyzing shopflow...                                           
+
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:163:30 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:201:28 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:231:34 - unnecessary_underscores
+   info - Unnecessary use of string interpolation - lib\screens\orders_screen.dart:156:19 - unnecessary_string_interpolations
+   info - Unnecessary use of multiple underscores - lib\screens\profile_screen.dart:164:20 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\splash_screen.dart:51:22 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\widgets\category_chips.dart:26:31 - unnecessary_underscores
+
+flutter : 7 issues 
+found. (ran in 10.6s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+all_results_v2.txt 
+2>&1 ; Get-Content 
+all_ ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (7 issues foun   
+ d. (ran in 10.6s):    
+String) [], Remote    
+Exception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

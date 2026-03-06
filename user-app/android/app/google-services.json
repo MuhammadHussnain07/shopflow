@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63087242136",
+    "project_id": "shopflow-ecommerce",
+    "storage_bucket": "shopflow-ecommerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63087242136:android:f21073405166558eda59ed",
+        "android_client_info": {
+          "package_name": "com.example.shopflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51PP9UWj33xufmfFIIAB6SauTySjYy74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

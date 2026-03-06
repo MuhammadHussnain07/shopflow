@@ -1,0 +1,28 @@
+﻿Analyzing shopflow...                                           
+
+   info - The file name 'app-router.dart' isn't a lower_case_with_underscores identifier - lib\core\router\app-router.dart:1:1 - file_names
+   info - The parameter name 'sum' matches a visible type name - lib\models\order_model.dart:90:40 - avoid_types_as_parameter_names
+  error - The getter 'formattedDate' isn't defined for the type 'OrderModel' - lib\screens\orders_screen.dart:117:31 - undefined_getter
+  error - The getter 'displayName' isn't defined for the type 'OrderStatus' - lib\screens\orders_screen.dart:126:51 - undefined_getter
+
+flutter : 4 issues 
+found. (ran in 9.1s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+current_errors.txt 
+2>&1 ; Get-Content 
+curr ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (4 issues foun   
+ d. (ran in 9.1s):S    
+tring) [], RemoteE    
+xception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

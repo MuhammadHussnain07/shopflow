@@ -1,0 +1,27 @@
+﻿Analyzing shopflow...                                           
+
+  error - The property 'mounted' can't be unconditionally accessed because the receiver can be 'null' - lib\services\auth_service.dart:164:19 - unchecked_use_of_nullable_value
+  error - The argument type 'BuildContext?' can't be assigned to the parameter type 'BuildContext'.  - lib\services\auth_service.dart:166:11 - argument_type_not_assignable
+  error - The property 'mounted' can't be unconditionally accessed because the receiver can be 'null' - lib\services\auth_service.dart:171:19 - unchecked_use_of_nullable_value
+  error - The argument type 'BuildContext?' can't be assigned to the parameter type 'BuildContext'.  - lib\services\auth_service.dart:172:30 - argument_type_not_assignable
+
+flutter : 4 issues 
+found. (ran in 7.4s)
+At line:1 char:1
++ flutter analyze 
+--no-pub > 
+auth_verify.txt 2>&1 ; 
+Get-Content auth_ve ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (4 issues foun   
+ d. (ran in 7.4s):S    
+tring) [], RemoteE    
+xception
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 

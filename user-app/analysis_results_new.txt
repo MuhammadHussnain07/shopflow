@@ -1,0 +1,90 @@
+Analyzing shopflow...                                           
+
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\main.dart:6:8 - uri_does_not_exist
+  error - Undefined name 'appRouterProvider' - lib\main.dart:34:30 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\cart_screen.dart:8:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\screens\cart_screen.dart:68:48 - undefined_identifier
+   info - Unnecessary use of multiple underscores - lib\screens\cart_screen.dart:75:28 - unnecessary_underscores
+  error - Undefined name 'AppRoutes' - lib\screens\cart_screen.dart:424:41 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\checkout_screen.dart:8:8 - uri_does_not_exist
+warning - The member 'state' can only be used within 'package:riverpod/src/framework.dart' or a test - lib\screens\checkout_screen.dart:129:36 - invalid_use_of_visible_for_testing_member
+warning - The member 'state' can only be used within instance members of subclasses of 'AnyNotifier' - lib\screens\checkout_screen.dart:129:36 - invalid_use_of_protected_member
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\checkout_screen.dart:138:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\checkout_screen.dart:143:60 - deprecated_member_use
+   info - Unnecessary use of string interpolation - lib\screens\checkout_screen.dart:245:43 - unnecessary_string_interpolations
+   info - Unnecessary use of string interpolation - lib\screens\checkout_screen.dart:263:30 - unnecessary_string_interpolations
+   info - Unnecessary use of string interpolation - lib\screens\checkout_screen.dart:270:29 - unnecessary_string_interpolations
+   info - Unnecessary use of string interpolation - lib\screens\checkout_screen.dart:278:30 - unnecessary_string_interpolations
+  error - Undefined name 'AppRoutes' - lib\screens\checkout_screen.dart:357:18 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\home_screen.dart:8:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\screens\home_screen.dart:95:47 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\screens\home_screen.dart:104:45 - undefined_identifier
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:122:34 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:163:30 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:201:28 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\screens\home_screen.dart:231:34 - unnecessary_underscores
+  error - Undefined name 'AppRoutes' - lib\screens\home_screen.dart:260:27 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\login_screen.dart:7:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\screens\login_screen.dart:244:57 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\screens\login_screen.dart:285:18 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\onboarding_screen.dart:7:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\screens\onboarding_screen.dart:77:49 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:83:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:118:49 - deprecated_member_use
+  error - Undefined name 'AppRoutes' - lib\screens\onboarding_screen.dart:134:36 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:154:50 - deprecated_member_use
+  error - Undefined name 'AppRoutes' - lib\screens\onboarding_screen.dart:158:49 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:209:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:221:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:247:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding_screen.dart:291:44 - deprecated_member_use
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\order_success_screen.dart:7:8 - uri_does_not_exist
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\order_success_screen.dart:37:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\order_success_screen.dart:76:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\order_success_screen.dart:79:48 - deprecated_member_use
+  error - Undefined name 'AppRoutes' - lib\screens\order_success_screen.dart:113:45 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\screens\order_success_screen.dart:119:47 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\orders_screen.dart:6:8 - uri_does_not_exist
+   info - Unnecessary use of multiple underscores - lib\screens\orders_screen.dart:39:28 - unnecessary_underscores
+   info - Unnecessary use of string interpolation - lib\screens\orders_screen.dart:156:19 - unnecessary_string_interpolations
+  error - Undefined name 'AppRoutes' - lib\screens\orders_screen.dart:241:41 - undefined_identifier
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\profile_screen.dart:7:8 - uri_does_not_exist
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:63:52 - deprecated_member_use
+  error - Undefined name 'AppRoutes' - lib\screens\profile_screen.dart:94:51 - undefined_identifier
+   info - Unnecessary use of multiple underscores - lib\screens\profile_screen.dart:164:20 - unnecessary_underscores
+  error - Undefined name 'AppRoutes' - lib\screens\profile_screen.dart:203:47 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:276:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:277:51 - deprecated_member_use
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\search_screen.dart:8:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\screens\search_screen.dart:119:23 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:166:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:201:39 - deprecated_member_use
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\screens\splash_screen.dart:7:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\screens\splash_screen.dart:46:26 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\screens\splash_screen.dart:48:26 - undefined_identifier
+   info - Unnecessary use of multiple underscores - lib\screens\splash_screen.dart:51:22 - unnecessary_underscores
+  error - Undefined name 'AppRoutes' - lib\screens\splash_screen.dart:51:40 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\screens\splash_screen.dart:59:24 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\screens\splash_screen.dart:61:24 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:84:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:96:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:108:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:133:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:175:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:200:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:208:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\banner_slider.dart:99:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\banner_slider.dart:183:44 - deprecated_member_use
+  error - Target of URI doesn't exist: 'package:shopflow/core/router/app-router.dart' - lib\widgets\bottom_nav_bar.dart:6:8 - uri_does_not_exist
+  error - Undefined name 'AppRoutes' - lib\widgets\bottom_nav_bar.dart:26:20 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\widgets\bottom_nav_bar.dart:29:20 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\widgets\bottom_nav_bar.dart:32:20 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\widgets\bottom_nav_bar.dart:35:20 - undefined_identifier
+  error - Undefined name 'AppRoutes' - lib\widgets\bottom_nav_bar.dart:38:20 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\bottom_nav_bar.dart:56:35 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\widgets\category_chips.dart:26:31 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\category_chips.dart:53:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\category_chips.dart:60:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\product_card.dart:85:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\product_card.dart:89:51 - deprecated_member_use
+
