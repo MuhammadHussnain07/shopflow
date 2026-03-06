@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="ShopFlow Logo" width="120"/>
-
 # ShopFlow — Full-Stack E-Commerce App
 
 ### *Your business is losing mobile customers every day without an app. ShopFlow fixes that.*
